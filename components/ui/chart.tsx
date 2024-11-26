@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 /* eslint-disable tailwindcss/no-custom-classname */
 
 "use client"
